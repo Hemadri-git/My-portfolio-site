@@ -7,6 +7,9 @@ body{
     color: rgb(255, 255, 255);
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+header{
+    position: relative;
+}
 
 nav{
     display: flex;
